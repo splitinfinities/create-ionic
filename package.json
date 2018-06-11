@@ -1,0 +1,15 @@
+{
+  "name": "create-ionic",
+  "version": "0.0.1",
+  "description": "Quickly create an Ionic project: npm init ionic",
+  "homepage": "https://ionicframework.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-ionic": "index.js"
+  },
+  "author": "Ionic Team <hi@ionic.io> (https://ionicframework.com)",
+  "license": "MIT"
+}
