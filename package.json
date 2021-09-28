@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/@ionic/cli/bin/ionic start"
+    "ionic": "./node_modules/@ionic/cli/bin/ionic"
   },
   "bin": {
     "create-ionic": "./node_modules/@ionic/cli/bin/ionic"
